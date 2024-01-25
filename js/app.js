@@ -5,6 +5,7 @@ Exercise 1:
 
 // Exercise 1 has been completed for you...
 console.log('hello world')
+console.log('hello world x 3')
 const foods = [];
 
 console.log('Exercise 1 Result:\n', foods);
