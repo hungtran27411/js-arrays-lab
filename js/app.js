@@ -205,4 +205,4 @@ numArrays.forEach(function(numArr) {
   });
 });
 
-console.log('Exercise 15 Result:\n', total);
+console.log('Exercise 15 Result2:\n', total);
